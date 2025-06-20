@@ -1,6 +1,6 @@
-# Vue 3 Basic Setup
+# Vue 3 Demo Page
 
-This project provides a minimal Vue 3 environment using [Vite](https://vitejs.dev/).
+This project demonstrates a simple web page built with [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/). The UI is styled with [Bootstrap 5](https://getbootstrap.com/).
 
 ## Available Scripts
 
